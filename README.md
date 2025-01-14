@@ -1,6 +1,4 @@
 # IPCGANs
-
-## Introduction
 This project is an implementation based on the [Identity-Preserved Conditional Generative Adversarial Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Face_Aging_With_CVPR_2018_paper.pdf).
 
 ## Dataset
